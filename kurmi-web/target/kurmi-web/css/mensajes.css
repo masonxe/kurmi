@@ -1,0 +1,30 @@
+.informacion, .listo, .referencia {
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+
+.informacion {
+    background-color: #C0D2E8; /* el color de fondo */
+    background-image: url('../images/mensajes/notice-info.png');  /* la imagen representativa */
+    color: #002299;  /* el color del texto */
+    padding: 10px 10px 10px 55px;
+    margin: 10px 0px;
+}
+
+.listo {
+    background-color: #FBEC88;  /* el color de fondo */
+    background-image: url('../images/mensajes/success_icon_smold.png');  /* la imagen representativa */
+    color: #000000;  /* el color del texto */
+    padding: 5px 10px 5px 55px;
+    width: 350px; height: 14px;
+    margin: 0px;
+    font-size: 12px;
+}
+
+.referencia {
+    background-color: #6B9CFF; /* el color de fondo */
+    background-image: url(laImagen); /* la imagen representativa */
+    color: #FFFFFF; /* el color del texto */
+}

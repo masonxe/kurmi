@@ -4,14 +4,9 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>war</packaging>
-	<parent>
-		<groupId>net.abcdroid.kurmi</groupId>
-		<artifactId>kurmi</artifactId>
-		<version>1.0-SNAPSHOT</version>
-	</parent>
-	<groupId>net.abcdroid.kurmi.w</groupId>
+	<groupId>org.kurmi</groupId>
 	<artifactId>kurmi-web</artifactId>
-	<version>1.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>kurmi-web</name>
 	<url>http://maven.apache.org</url>
 

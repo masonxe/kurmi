@@ -1,0 +1,11 @@
+
+/** Estilo para formulario simple**/
+body{background-color: #F2EFFF;}
+.login {width:320px; padding:1px; padding-top: 10px; margin: auto; margin-top:200px;border: 1px #BFCFFF;background-color: #bfcfff;}
+.login fieldset {border:0; padding:10px 20px;background-color: #fff;}
+.login legend{padding:0 5px;color: #ff7f44}
+.login p label {font:bold 12px Geneva, Arial, Helvetica, sans-serif; float: left;width: 30%; text-align:right;padding:5px;padding-right: 10px; color: #000000;}
+.login p br {clear: left;}
+
+.boton-login{background-color:#ff7f44;color:white;-moz-border-radius:5px;margin-top: 6px;padding:3px;float: right;}
+
