@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar" sourcepath="M2_REPO/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar" sourcepath="M2_REPO/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar" sourcepath="M2_REPO/javax/activation/activation/1.1/activation-1.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-server/1.13/jersey-server-1.13.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-server/1.13/jersey-server-1.13-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/asm/asm/3.1/asm-3.1.jar" sourcepath="M2_REPO/asm/asm/3.1/asm-3.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.13/jersey-core-1.13.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-core/1.13/jersey-core-1.13-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-servlet/1.13/jersey-servlet-1.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-json/1.13/jersey-json-1.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar" sourcepath="M2_REPO/org/codehaus/jettison/jettison/1.1/jettison-1.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/stax/stax-api/1.0.1/stax-api-1.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar" sourcepath="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-jaxrs/1.9.2/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-xc/1.9.2/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-client/1.13/jersey-client-1.13.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

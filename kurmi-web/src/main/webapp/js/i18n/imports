@@ -1,0 +1,24 @@
+
+        <script src="js/jquery-1.2.1.pack.js" type="text/javascript"></script>
+        <script src="js/jqgrid/jquery.jqGrid.min.js" type="text/javascript"></script>
+
+        <script src="js/jqgrid/grid.base.js" type="text/javascript"></script>
+        <script src="js/jqgrid/idiomas/grid.locale-sp.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.celledit.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.common.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.custom.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.formedit.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.import.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.inlinedit.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.jqueryui.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.loader.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.postext.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.setcolumns.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.subgrid.js" type="text/javascript"></script>
+        <script src="js/jqgrid/grid.tbltogrid.js" type="text/javascript"></script>
+        <script src="js/jqgrid/jqDnR.js" type="text/javascript"></script>
+        <script src="js/jqgrid/jqModal.js" type="text/javascript"></script>
+        <script src="js/jqgrid/jquery.fmatter.js" type="text/javascript"></script>
+        <script src="js/jqgrid/jquery.searchFilter.js" type="text/javascript"></script>
+        <script src="js/jqgrid/ui.multiselect.js" type="text/javascript"></script>
+        

@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="206dp"
+        android:layout_height="213dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/g_defaultmsg"
+        android:src="@drawable/books" />
+
+    <Button
+        android:id="@+id/btnListar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:onClick="listar"
+        android:text="@string/g_libros_list" />
+
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:onClick="guardar"
+        android:text="@string/g_libros_add" />
+
+    <Button
+        android:id="@+id/btnSincronizar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:onClick="sincronizar"
+        android:text="@string/g_libros_sincronizar" />
+
+</LinearLayout>

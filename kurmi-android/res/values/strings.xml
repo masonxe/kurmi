@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">GLibros</string>
+    <string name="g_defaultmsg">Logo Inicial</string>
+
+    <!-- Pantalla inicial -->
+    <string name="g_libros_t">Arco Iris</string>
+    <string name="g_libros_add">Agregar Libro</string>
+    <string name="g_libros_list">Lista de Libros</string>
+    <string name="g_libros_sincronizar">Sincronizar</string>
+
+    <!-- Para el formulario -->
+    <string name="g_libro_id">Id Libro</string>
+    <string name="g_libro_titulo">Titulo del Libro</string>
+    <string name="g_libro_participante_dni">Dni Concursante</string>
+    <string name="g_libro_autor">Autor</string>
+    <string name="g_libro_paginas">Páginas</string>
+    <string name="g_libro_calificacion">Estado de conservación del Libro</string>
+
+    <!-- Titulos -->
+    <string name="guardar">Guardar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

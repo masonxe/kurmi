@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="15dp"
+    android:orientation="vertical" >
+    
+     <TextView
+        android:id="@+id/lblDni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/g_libro_participante_dni" />
+
+    <EditText
+        android:id="@+id/txtDni"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/lblTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/g_libro_titulo" />
+
+    <EditText
+        android:id="@+id/txtTitulo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/lblAutor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/g_libro_autor" />
+
+    <EditText
+        android:id="@+id/txtAutor"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:ems="10" />
+
+     <TextView
+        android:id="@+id/lblPaginas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/g_libro_paginas" />
+
+    <EditText
+        android:id="@+id/txtPaginas"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10" />
+    
+    
+     <TextView
+        android:id="@+id/lblCalificacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/g_libro_calificacion" />
+    
+    <RatingBar
+        android:id="@+id/txtCalificacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rating="1.0"
+        android:stepSize="0.3" />
+    
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/guardar" />
+
+</LinearLayout>

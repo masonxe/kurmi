@@ -1,0 +1,88 @@
+#signup, #editsuc ,#edittrans table {
+ background-color: #F9FBFD;
+ color: #000000;
+ width: 440px;
+ border: 1px solid #D7E5F2;
+ border-collapse: collapse;
+ margin: 0 auto;
+}
+
+#signup, #editsuc, #edittrans td {
+ border: 1px solid #D7E5F2;
+ padding-left: 4px;
+ text-align: left;
+}
+
+.eddgen table {
+ background-color: #F9FBFD;
+ color: #000000;
+ width: 540px;
+ border: 1px solid #D7E5F2;
+ border-collapse: collapse;
+ margin: 0 auto;
+}
+
+.eddgen td {
+ border: 1px solid #D7E5F2;
+ padding-left: 10px;
+ text-align: left;
+}
+
+.labelcell { 
+ color: #3670A7;
+ background-color: transparent;
+ width: 200px;
+}
+
+.fieldcell {
+ background-color: #F2F7FB;
+ color: #000000;
+ text-align: left;
+ margin-right: 0px;
+ padding-right: 0px;
+ padding-left: 7px;
+}
+
+.smalllabelcell { 
+ background-color: transparent;
+ color: #3670A7;
+ width: 100px;
+}
+
+.smallfieldcell {
+ background-color: #F2F7FB;
+ color: #000000;
+ text-align: right;
+}
+
+
+
+#maestro-encomienda, #encregitporenviar table {
+ background-color: #F9FBFD;
+ color: #000000;
+ width: 1000px;
+ border: 1px solid #D7E5F2;
+ border-collapse: collapse;
+ margin: 0 auto;
+}
+
+#maestro-encomienda, #encregitporenviar td {
+ border: 1px solid #D7E5F2;
+ padding-left: 4px;
+}
+
+.melabelcell {
+ color: #3670A7;
+ background-color: transparent;
+ width: 200px;
+ text-align: right;
+}
+
+.mefieldcell {
+ background-color: #F2F7FB;
+ color: #000000;
+ text-align: left;
+ margin-right: 0px;
+ padding-right: 0px;
+ padding-left: 7px;
+}
